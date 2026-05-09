@@ -7,4 +7,4 @@ The code and data is released under the GNU GPL v3.0 license. The author does no
 
 Notebook creation was supported by claude-sonnet-4-
 20250514.
-Last updated on 05/05/2026.
+Last updated on 05/08/2026.
